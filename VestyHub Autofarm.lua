@@ -1,2 +1,2 @@
-_G.UserName = "DoritosCZ_999"
+_G.UserName = "Doritofarms1"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
